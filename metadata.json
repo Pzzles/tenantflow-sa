@@ -1,0 +1,5 @@
+{
+  "name": "TenantFlow SA",
+  "description": "Production-ready Tenant Management System for South African landlords and property managers. Features property tracking, rent management, maintenance requests with media uploads, and supplier management.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
